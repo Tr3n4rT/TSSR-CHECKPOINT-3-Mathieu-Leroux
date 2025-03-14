@@ -63,3 +63,12 @@ passwd Math
 - Un dossier utilisateur à l'emplacement de /home
 - Un mot de passe robuste de 8 caractères dont au moins une majuscule et un caratère spécial
 - Pas de droits root de base mais la possibilité d'effectuer des tâches d'administration en étant ajouté au groupe __sudo__ plus tard
+
+## Partie 2 : Configuration de SSH
+La configuration demandé pour toutes les questions de cette partie a été effectué en éditant le fichier à l'emplacement `/etc/ssh/sshd_conf.d/local.conf`. La capture de cette configuration répondant à toutes les questions est à la suite de la question __Q.2.2.3__
+
+### Q.2.2.1 Désactiver complètement l'accès à distance de l'utilisateur root.
+### Q.2.2.2 Autoriser l'accès à distance à ton compte personnel uniquement.
+### Q.2.2.3 Mettre en place une authentification par clé valide et désactiver l'authentification par mot de passe
+
+![lione02](https://github.com/Tr3n4rT/TSSR-CHECKPOINT-3-Mathieu-Leroux/blob/main/images/configuration-ssh.png)

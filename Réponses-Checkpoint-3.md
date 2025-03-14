@@ -34,3 +34,18 @@
 ### Q.1.2.3 Mettre en place une stratégie de mot de passe pour durcir les comptes des utilisateurs de l'OU LabUsers.
 
 ![lione02](https://github.com/Tr3n4rT/TSSR-CHECKPOINT-3-Mathieu-Leroux/blob/main/images/acconthardpasswd.png)
+
+## Partie 3 : Lecteurs réseaux
+
+### Q.1.3.1 Créer une GPO Drive-Mount qui monte les lecteurs E: et F: sur les clients.
+
+__Détail GPO Mappage de lecteur E :__
+
+![lione02](https://github.com/Tr3n4rT/TSSR-CHECKPOINT-3-Mathieu-Leroux/blob/main/images/mappage-E.png)
+
+__Détail GPO Mappage de lecteur F :__
+
+![lione02](https://github.com/Tr3n4rT/TSSR-CHECKPOINT-3-Mathieu-Leroux/blob/main/images/mappage-F.png)
+
+
+

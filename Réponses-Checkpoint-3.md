@@ -47,5 +47,19 @@ __Détail GPO Mappage de lecteur F :__
 
 ![lione02](https://github.com/Tr3n4rT/TSSR-CHECKPOINT-3-Mathieu-Leroux/blob/main/images/mappage-F.png)
 
+## Partie 1 : Gestion des utilisateurs
 
+```bash
+#Créer l'utilisateur Math (sous compte root)
+useradd -m -s /bin/bash Math
 
+#Créer le mot de passe pour l'utilisateur
+passwd Math
+```
+
+### Q.2.1.1 Sur le serveur, créer un compte pour ton usage personnel.
+
+### Q.2.1.2 Quelles préconisations proposes-tu concernant ce compte ?
+- Un dossier utilisateur à l'emplacement de /home
+- Un mot de passe robuste de 8 caractères dont au moins une majuscule et un caratère spécial
+- Pas de droits root de base mais la possibilité d'effectuer des tâches d'administration en étant ajouté au groupe __sudo__ plus tard

@@ -72,3 +72,24 @@ La configuration demandé pour toutes les questions de cette partie a été effe
 ### Q.2.2.3 Mettre en place une authentification par clé valide et désactiver l'authentification par mot de passe
 
 ![lione02](https://github.com/Tr3n4rT/TSSR-CHECKPOINT-3-Mathieu-Leroux/blob/main/images/configuration-ssh.png)
+
+
+## Partie 3 : Analyse du stockage
+
+### Q.2.3.1 Quels sont les systèmes de fichiers actuellement montés ?
+- linux_raid_member
+- ext2
+- LVM2_member
+- ext4
+- swap
+
+### Q.2.3.2 Quel type de système de stockage ils utilisent ?
+- Disk
+- Raid1
+- lvm
+
+### Q.2.3.3 Ajouter un nouveau disque de 8,00 Gio au serveur et réparer le volume RAID
+
+### Q.2.3.4 Ajouter un nouveau volume logique LVM de 2 Gio qui servira à héberger des sauvegardes. Ce volume doit être monté automatiquement à chaque démarrage dans l'emplacement par défaut : /var/lib/bareos/storage.
+
+### Q.2.3.5 Combien d'espace disponible reste-t-il dans le groupe de volume ?

@@ -7,4 +7,12 @@
 ![lione01](https://github.com/Tr3n4rT/TSSR-CHECKPOINT-3-Mathieu-Leroux/blob/main/images/lionel01.png)
 
 ![lione02](https://github.com/Tr3n4rT/TSSR-CHECKPOINT-3-Mathieu-Leroux/blob/main/images/lionel02.png)
-### 
+
+
+### Q.1.1.2 Créer une OU DeactivatedUsers et déplace le compte désactivé de Kelly Rhameur dedans. 
+
+![lione02](https://github.com/Tr3n4rT/TSSR-CHECKPOINT-3-Mathieu-Leroux/blob/main/images/desactivatedgroup.png)
+
+### Q.1.1.3 Modifier le groupe de l'OU dans laquelle était Kelly Rhameur en conséquence.
+
+![lione02](https://github.com/Tr3n4rT/TSSR-CHECKPOINT-3-Mathieu-Leroux/blob/main/images/groupelionel.png)

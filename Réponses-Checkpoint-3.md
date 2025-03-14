@@ -49,6 +49,8 @@ __Détail GPO Mappage de lecteur F :__
 
 ## Partie 1 : Gestion des utilisateurs
 
+### Q.2.1.1 Sur le serveur, créer un compte pour ton usage personnel.
+
 ```bash
 #Créer l'utilisateur Math (sous compte root)
 useradd -m -s /bin/bash Math
@@ -56,8 +58,6 @@ useradd -m -s /bin/bash Math
 #Créer le mot de passe pour l'utilisateur
 passwd Math
 ```
-
-### Q.2.1.1 Sur le serveur, créer un compte pour ton usage personnel.
 
 ### Q.2.1.2 Quelles préconisations proposes-tu concernant ce compte ?
 - Un dossier utilisateur à l'emplacement de /home
